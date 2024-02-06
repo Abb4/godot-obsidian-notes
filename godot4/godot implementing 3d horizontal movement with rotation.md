@@ -4,7 +4,7 @@ aliases:
  - 
 ---
 
-# [[godot]] implementing 3d rotation
+# [[Godot]] implementing 3d rotation
 - there are two ways I could find: [[#Rotation using angles]] and [[#Rotation using Basis]]
 - consider checking out [[#Further reading]] if something breaks 
 
